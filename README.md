@@ -36,9 +36,12 @@ Install the Vietnamese language pack via composer is never easier.
 **Install Vietnamese pack**:
 
 ```
-composer require mageplaza/magento-2-vietnamese-language-pack:*
+composer require mageplaza/magento-2-vietnamese-language-pack:dev-master
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy vi-vn
+php bin/magento setup:static-content:deploy vi_VN
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
 
 ```
 
@@ -46,9 +49,12 @@ php bin/magento setup:static-content:deploy vi-vn
 **Update  Vietnamese pack**:
 
 ```
-composer update mageplaza/magento-2-vietnamese-language-pack:*
+composer update mageplaza/magento-2-vietnamese-language-pack:dev-master
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy vi-vn
+php bin/magento setup:static-content:deploy vi_VN
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
 
 ```
 
@@ -132,12 +138,15 @@ Contribute to this language at https://crowdin.com/project/magento-2/vi
 - Magento v2.0.9
 - Magento v2.0.10
 - Magento v2.0.11
+- Magento v2.0.12
+- Magento v2.0.13
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
 - Magento v2.1.3
 - Magento v2.1.4
 - Magento v2.1.5
+- Magento v2.1.6
 
 
 

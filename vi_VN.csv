@@ -72,16 +72,16 @@ Actions,"Thao tác",module,Magento_AdminNotification
 Back,"Quay lại",module,Magento_AdvancedCheckout
 "Add Products","Thêm sản phẩm",module,Magento_AdvancedCheckout
 "Update Items and Quantities","Cập nhật sản phẩm và số lượng",module,Magento_AdvancedCheckout
-"Are you sure you want to clear your cart?","Are you sure you want to clear your cart?",module,Magento_AdvancedCheckout
-"Clear my shopping cart","Clear my shopping cart",module,Magento_AdvancedCheckout
-"Add selections to my cart","Add selections to my cart",module,Magento_AdvancedCheckout
-Cancel,"Từ bỏ",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","Bạn có chắc chắn muốn xóa giỏ hàng?",module,Magento_AdvancedCheckout
+"Clear my shopping cart","Xóa giỏ hàng",module,Magento_AdvancedCheckout
+"Add selections to my cart","Thêm sản phẩm đã chọn vào giỏ hàng",module,Magento_AdvancedCheckout
+Cancel,"Bỏ qua",module,Magento_AdvancedCheckout
 "Shopping Cart for %1 in %2","Shopping Cart for %1 in %2",module,Magento_AdvancedCheckout
-"Select products you want to buy","Select products you want to buy",module,Magento_AdvancedCheckout
+"Select products you want to buy","Chọn sản phẩm bạn muốn mua",module,Magento_AdvancedCheckout
 Product,"Sản phẩm",module,Magento_AdvancedCheckout
 Price,Giá,module,Magento_AdvancedCheckout
 Quantity,"Số lượng",module,Magento_AdvancedCheckout
-"Products in the Comparison List (%1)","Products in the Comparison List (%1)",module,Magento_AdvancedCheckout
+"Products in the Comparison List (%1)","So sánh sản phẩm (%1)",module,Magento_AdvancedCheckout
 "Last ordered items (%1)","Last ordered items (%1)",module,Magento_AdvancedCheckout
 Products,"Sản phẩm",module,Magento_AdvancedCheckout
 ID,ID,module,Magento_AdvancedCheckout

@@ -1,8 +1,8 @@
 ## Magento 2 Vietnamese Language Pack
 
-Switching your store to Vietnamese according to **Magento 2 Vietnamese Language Pack** instruction. The transformation will cover both storefront and backend on Magento 2 store. It is time to focus on the localization language when there is any plan to enter the international market as Vietnam. This will help you eliminate the language barrier for the better commerce.
+Switching your store to Vietnamese according to **Magento 2 Vietnamese Language Pack** instruction. The transformation will cover both storefront and backend on Magento 2 store. It is time to focus on the local languages when there is any plan to enter the international market as Vietnam. This will help you eliminate the language barrier for the better commerce.
 
-The language package is contributed by the native Vienamese speakers from Magento 2 Translation Project, so the quality of the convertion is surely guanranteed. Then, you will donwload and install the zip file that compress all translated phrases into Vietnamese. 
+The language package is contributed by native Vienamese speakers from Magento 2 Translation Project, so the quality of the convertion is surely guanranteed. Then, you will donwload and install the zip file that compress all translated phrases into Vietnamese. 
 
 Read more [Magento 2 Vietnamese Language Pack](https://www.mageplaza.com/magento-2-vietnamese-language-pack.html)
 
@@ -138,6 +138,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/vi
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -147,6 +148,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/vi
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 

@@ -9,18 +9,21 @@ Read more [Magento 2 Vietnamese Language Pack](https://www.mageplaza.com/magento
 
 ## Overview
 
-- Download & Contribute
-- Install Vietnamese Language Pack
-- How to Install Vietnamese Language Pack
+- 1. Language Package Process
+- 2. Install Vietnamese Language Pack
+- 3. How to active Vietnamese language pack
+- 4. How to contribute
+- 5. Supported Magento versions
 
-## 1. Download & Contribute to Vietnamese Language Pack
+## 1. Language Package Process
 
-Below are two active buttons which are required operations before installing the language package. Let's hit them to download and contribute Magento 2 Vietnamese Language Pack immediately!
+This is status of Vietnamese Language Pack, you can see how many percentage of this project has been done.
 
-**Download packages**:
+![language pack](http://progressed.io/bar/92?title=translated)
 
-- [Download .zip](https://github.com/mageplaza/magento-2-vietnamese-language-pack/archive/master.zip)
-- [Download .tar.gz](https://github.com/mageplaza/magento-2-vietnamese-language-pack/tarball/master)
+It is not fully translated? Feel free to contribute:
+- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
+- [On Github])(https://github.com/mageplaza/magento-2-vietnamese-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
@@ -78,7 +81,7 @@ Unzip the Vietnamese language pack to Magento 2 root folder. In this guide, we e
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip fr.zip app/i18n/Mageplaza/vi_vn
+unzip master.zip app/i18n/Mageplaza/vi_vn
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -107,14 +110,12 @@ Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza
 
 
 ## 3. How to active Vietnamese language pack
-O
+
 Now time to active the Vietnamese language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Vietnamese language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
 ## 4. How to contribute
-
-![language pack](http://progressed.io/bar/92?title=translated)
 
 Contribute to this language at https://crowdin.com/project/magento-2/vi
 
@@ -148,10 +149,6 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 
 
 
-
-
-
-
 ## Mageplaza extensions on Magento Marketplace, Github
 
 
@@ -161,15 +158,10 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - [Blog](https://github.com/mageplaza/magento-2-blog)
 - [Security](https://marketplace.magento.com/mageplaza-module-security.html)
 - [Social Login](https://github.com/mageplaza/magento-2-social-login)
-
 - [SEO](https://github.com/mageplaza/magento-2-seo) ; [SEO on Marketplace](https://marketplace.magento.com/mageplaza-magento-2-seo-extension.html)
-
 - [SMTP](https://github.com/mageplaza/magento-2-smtp)
-
 - [Product Slider](https://github.com/mageplaza/magento-2-product-slider)
-
 - [Banner](https://github.com/mageplaza/magento-2-banner-slider)
-
 - [Sample Payment Method](https://github.com/mageplaza/magento-2-sample-payment-method)
 
 

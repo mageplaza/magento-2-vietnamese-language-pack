@@ -9,15 +9,15 @@ Read more [Magento 2 Vietnamese Language Pack](https://www.mageplaza.com/magento
 
 ## Overview
 
-1. [Language Package Process](#process)
-2. [Install Vietnamese Language Pack](#install)
-3. [How to active Vietnamese language pack](#active)
-4. [How to contribute](#contribute)
-5. [Supported Magento versions](#support)
-6. [Notes](#important-notes})
-7. [Language package authors](#authors)
+1. [Language Package Process](#1-language-package-process)
+2. [Install Vietnamese Language Pack](#2-how-to-install-hungarian-language-pack)
+3. [How to active Vietnamese language pack](#3-how-to-active-hungarian-language-pack)
+4. [How to contribute](#4-how-to-contribute)
+5. [Supported Magento versions](#5-supported-magento-version)
+6. [Notes](#6-notes})
+7. [Language package authors](#7-language-package-authors)
 
-## 1. Language Package Process {#process}
+## 1. Language Package Process
 
 This is status of Vietnamese Language Pack, you can see how many percentage of this project has been done.
 
@@ -30,7 +30,7 @@ It is not fully translated? Feel free to contribute:
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
 
-## 2. How to Install Vietnamese Language Pack {#install}
+## 2. How to Install Vietnamese Language Pack
 
 There are 3 different methods to install this language pack.
 
@@ -132,7 +132,7 @@ Contribute to this language at :
 - [On Github](https://github.com/mageplaza/magento-2-vietnamese-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
-## 5. Supported Magento versions{#support}
+## 5. Supported Magento versions
 
 It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
 
@@ -148,14 +148,14 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - This project automatically updates weekly from Crowdin.
 - Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-vietnamese-language-pack/issues/new)
 
-## 7. Language package authors {#authors}
+## 7. Language package authors
 
 - [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
 - Magento Community
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
-## 8. References {#references}
+## 8. References 
 
 - https://www.mageplaza.com/magento-2-vietnamese-language-pack.html
 - https://crowdin.com/project/magento-2

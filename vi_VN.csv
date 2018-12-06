@@ -4,18 +4,18 @@
 "More permissions are needed to delete the ""%1"" item.","Không đủ quyền để xoá item ""%1"".",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Bạn cần thêm quyền để áp dụng một số quy tắc Cập Nhật.",module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Thực thể này cần được gán cho một store view. Vui lòng kiểm tra và thử lại.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Đơn đặt hàng chỉ có thể được hoàn thành trong một cửa hàng hoạt động. Kiểm tra các cửa hàng và thử lại.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Khoản mục này cần phải được gán cho một cửa hàng xem. Gán các khoản mục và thử lại.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Không đủ quyền để lưu item.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Không đủ quyền để xoá item """".",module,Magento_AdminGws
+"More permissions are needed to view this item.","Không đủ quyền để xem item.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Ít nhất một trang web hoặc cửa hàng nhóm cần được lựa chọn. Chọn và thử lại.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Cấp phép thêm là cần thiết để thiết lập tất cả các phạm vi để một vai trò.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","ID trang web của ""%1"" là không chính xác. Kiểm tra ID của trang web và thử lại.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","You need more permissions to access website ""%1"".",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
-"Role Scopes","Role Scopes",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","ID store ""%1"" là không chính xác. Kiểm tra ID của cửa hàng và thử lại.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","Không đủ quyền để lưu cài đặt này.",module,Magento_AdminGws
+"Role Scopes","Phạm vi ghi vai trò",module,Magento_AdminGws
 "Custom","Tùy chỉnh",module,Magento_AdminGws
 "Read Details","Đọc chi tiết",module,Magento_AdminNotification
 "Mark as Read","Đánh dấu đã đọc",module,Magento_AdminNotification

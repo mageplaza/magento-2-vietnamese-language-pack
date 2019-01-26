@@ -91,8 +91,11 @@ Unzip the Vietnamese language pack to Magento 2 root folder. In this guide, we e
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/vi_vn
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-vietnamese-language-pack` to `vi_vn`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -112,7 +115,11 @@ To download and install Vietnamese pack manually, you have to access to your ser
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `vi_VN.zip` into `app/i18n/mageplaza/vi_VN/vi_VN.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/vi_vn/vi_VN.csv`
+
+See this screenshot
+
+![Vietnamese pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 

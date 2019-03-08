@@ -547,7 +547,7 @@ Stores,"Cửa hàng",module,Magento_Backend
 Home,"Trang chủ",module,Magento_Backend
 Reset,"Thiết lập lại",module,Magento_Backend
 "Are you sure you want to do this?","Bạn có chắc rằng bạn muốn làm điều đó?",module,Magento_Backend
-label,label,module,Magento_Backend
+label,nhãn,module,Magento_Backend
 "Add New Image","Lưu hình ảnh mới",module,Magento_Backend
 "Export block for grid %1 is not defined","Xuất khẩu khối cho dạng lưới chưa được xác nhận",module,Magento_Backend
 "Reset Filter","Thiết lập lại bộ lọc",module,Magento_Backend
@@ -6963,9 +6963,9 @@ Done,"Đã thực hiện",module,Magento_Integration
 Extensions,"Tiện ích mở rộng",module,Magento_Integration
 OAuth,OAuth,module,Magento_Integration
 "Access Token Expiration","Access Token Expiration",module,Magento_Integration
-"Customer Token Lifetime (hours)","Customer Token Lifetime (hours)",module,Magento_Integration
+"Customer Token Lifetime (hours)","Thời gian hiệu lực token của khách hàng (giờ)",module,Magento_Integration
 "We will disable this feature if the value is empty.","We will disable this feature if the value is empty.",module,Magento_Integration
-"Admin Token Lifetime (hours)","Admin Token Lifetime (hours)",module,Magento_Integration
+"Admin Token Lifetime (hours)","Thời gian hiệu lực token của quản trị viên (giờ)",module,Magento_Integration
 "Cleanup Settings","Thiết đặt dọn dẹp",module,Magento_Integration
 "Cleanup Probability","Khả năng dọn dẹp",module,Magento_Integration
 "Integer. Launch cleanup in X OAuth requests. 0 (not recommended) - to disable cleanup","Số nguyên. Khởi động chế độ dọn dẹp trong yêu cầu X OAuth. 0 (không khuyến cáo) – để vô hiệu hóa dọn dẹp",module,Magento_Integration

@@ -6,7 +6,7 @@ The language package is contributed by native Vienamese speakers from Magento 2 
 
 Read more [Magento 2 Vietnamese Language Pack](https://www.mageplaza.com/magento-2-vietnamese-language-pack.html)
 
-![Mageplaza Vietnamese language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Vietnamese language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 

@@ -16213,73 +16213,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Giao dịch đã bị từ chối",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Tóm tắt",theme,frontend/Magento/blank
-"Account Dashboard","Trang tổng quan tài khoản",theme,frontend/Magento/blank
-"Account Information","Thông tin tài khoản",theme,frontend/Magento/blank
-"Address Book","Sổ địa chỉ",theme,frontend/Magento/blank
-"Menu","Menu",theme,frontend/Magento/blank
-"Account","Tài khoản",theme,frontend/Magento/blank
-"Settings","Cài đặt",theme,frontend/Magento/blank
-"Now Shopping by","Bây giờ mua sắm bằng",theme,frontend/Magento/luma
-"Previous","Trước",theme,frontend/Magento/luma
-"Remove","Loại bỏ",theme,frontend/Magento/luma
-"Remove This Item","Loại bỏ mục này",theme,frontend/Magento/luma
-"Shop By","Mua sắm bằng",theme,frontend/Magento/luma
-"Clear All","Xóa tất cả",theme,frontend/Magento/luma
-"Shopping Options","Lựa chọn mua sắm",theme,frontend/Magento/luma
-"Welcome to %store_name","Chào mừng đến với %store_name",theme,frontend/Magento/luma
-"%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","Chào mừng đến với %store_name.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Để đăng nhập vào trang web của chúng tôi, sử dụng các thông tin đăng nhập khi checkout hoặc trên trang<a href=""%customer_url""> Tài khoản của tôi</a>:",theme,frontend/Magento/luma
-"Email:","Email:",theme,frontend/Magento/luma
-"Password:","Mật khẩu:",theme,frontend/Magento/luma
-"Password you set when creating account","Mật khẩu bạn thiết lập khi tạo tài khoản",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Quên mật khẩu tài khoản? Bấm vào <a href=""%reset_url""> đây</a> để đặt lại nó.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","Khi bạn đăng nhập vào tài khoản, bạn có thể:",theme,frontend/Magento/luma
-"Quick Checkout","Thanh toán nhanh chóng",theme,frontend/Magento/luma
-"Proceed through checkout faster","Tiến hành checkout nhanh hơn",theme,frontend/Magento/luma
-"Order Status","Tình trạng đơn hàng",theme,frontend/Magento/luma
-"Check the status of orders","Kiểm tra tình trạng đơn hàng",theme,frontend/Magento/luma
-"Manage Addresses","Quản lý địa chỉ",theme,frontend/Magento/luma
-"Store alternative addresses","Lưu trữ địa chỉ thay thế",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","Để vận chuyển đến nhiều thành viên gia đình và bạn bè",theme,frontend/Magento/luma
-"Order History","Lịch sử đặt hàng",theme,frontend/Magento/luma
-"View past orders","Xem các đơn hàng đã đặt",theme,frontend/Magento/luma
-"Footer","Chân trang",theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Giờ hoạt động: <br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Bản ghi nhớ tín dụng cho đơn đặt hàng %store_name",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Cảm ơn bạn đã đặt hàng từ %store_name.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Bạn có thể kiểm tra tình trạng đơn hàng của bạn bằng cách <a href=""%account_url""> đăng nhập vào tài khoản của bạn</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Nếu bạn có thắc mắc về đơn hàng, bạn có thể gửi email cho chúng tôi tại <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Bản ghi nhớ tín dụng của bạn #%creditmemo_id cho đơn đặt hàng #%order_id",theme,frontend/Magento/luma
-"Billing Info","Thông tin thanh toán",theme,frontend/Magento/luma
-"Shipping Info","Thông tin vận chuyển",theme,frontend/Magento/luma
-"Payment Method","Phương thức thanh toán",theme,frontend/Magento/luma
-"Shipping Method","Phương thức vận chuyển",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Cập nhật các bản ghi nhớ tín dụng %store_name của bạn",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Đơn đặt hàng của bạn #%increment_id đã được cập nhật với trạng thái <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","Các hóa đơn cho các đơn đặt hàng %store_name",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Hoá đơn %invoice_id # cho các đơn đặt hàng #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Cập nhật các hoá đơn của bạn %store_name",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Xác nhận đơn đặt hàng của bạn %store_name",theme,frontend/Magento/luma
-"%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Khi hàng của bạn được vận chuyển chúng tôi sẽ gửi cho bạn dãy số theo dõi.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Đơn đặt hàng của bạn <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Đặt trên <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Cập nhật %store_name các đơn đặt hàng",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Đơn đặt hàng %store_name đã vận chuyển",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Sự xác nhận vận chuyển của bạn ở dưới đây. Cảm ơn vì giao dịch của bạn.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Vận chuyển #%shipment_id cho đơn hàng #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Cập Nhật cho %store_name sự gửi hàng của bạn",theme,frontend/Magento/luma
-"Account Dashboard","Trang tổng quan tài khoản",theme,frontend/Magento/luma
-"Address Book","Sổ địa chỉ",theme,frontend/Magento/luma
-"Account Information","Thông tin tài khoản",theme,frontend/Magento/luma
-"About Us","Giới Thiệu Về Chúng Tôi",theme,frontend/Magento/luma
-"Customer Service","Dịch vụ khách hàng",theme,frontend/Magento/luma
-"My Account","Tài khoản của tôi",theme,frontend/Magento/luma
+"Summary","Tóm tắt",theme,frontend\Magento\blank
+"Account Dashboard","Trang tổng quan tài khoản",theme,frontend\Magento\blank
+"Account Information","Thông tin tài khoản",theme,frontend\Magento\blank
+"Address Book","Sổ địa chỉ",theme,frontend\Magento\blank
+"Menu","Menu",theme,frontend\Magento\blank
+"Account","Tài khoản",theme,frontend\Magento\blank
+"Settings","Cài đặt",theme,frontend\Magento\blank
+"Now Shopping by","Bây giờ mua sắm bằng",theme,frontend\Magento\luma
+"Previous","Trước",theme,frontend\Magento\luma
+"Remove","Loại bỏ",theme,frontend\Magento\luma
+"Remove This Item","Loại bỏ mục này",theme,frontend\Magento\luma
+"Shop By","Mua sắm bằng",theme,frontend\Magento\luma
+"Clear All","Xóa tất cả",theme,frontend\Magento\luma
+"Shopping Options","Lựa chọn mua sắm",theme,frontend\Magento\luma
+"Welcome to %store_name","Chào mừng đến với %store_name",theme,frontend\Magento\luma
+"%name,","%name,",theme,frontend\Magento\luma
+"Welcome to %store_name.","Chào mừng đến với %store_name.",theme,frontend\Magento\luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Để đăng nhập vào trang web của chúng tôi, sử dụng các thông tin đăng nhập khi checkout hoặc trên trang<a href=""%customer_url""> Tài khoản của tôi</a>:",theme,frontend\Magento\luma
+"Email:","Email:",theme,frontend\Magento\luma
+"Password:","Mật khẩu:",theme,frontend\Magento\luma
+"Password you set when creating account","Mật khẩu bạn thiết lập khi tạo tài khoản",theme,frontend\Magento\luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Quên mật khẩu tài khoản? Bấm vào <a href=""%reset_url""> đây</a> để đặt lại nó.",theme,frontend\Magento\luma
+"When you sign in to your account, you will be able to:","Khi bạn đăng nhập vào tài khoản, bạn có thể:",theme,frontend\Magento\luma
+"Quick Checkout","Thanh toán nhanh chóng",theme,frontend\Magento\luma
+"Proceed through checkout faster","Tiến hành checkout nhanh hơn",theme,frontend\Magento\luma
+"Order Status","Tình trạng đơn hàng",theme,frontend\Magento\luma
+"Check the status of orders","Kiểm tra tình trạng đơn hàng",theme,frontend\Magento\luma
+"Manage Addresses","Quản lý địa chỉ",theme,frontend\Magento\luma
+"Store alternative addresses","Lưu trữ địa chỉ thay thế",theme,frontend\Magento\luma
+"For shipping to multiple family members and friends","Để vận chuyển đến nhiều thành viên gia đình và bạn bè",theme,frontend\Magento\luma
+"Order History","Lịch sử đặt hàng",theme,frontend\Magento\luma
+"View past orders","Xem các đơn hàng đã đặt",theme,frontend\Magento\luma
+"Footer","Chân trang",theme,frontend\Magento\luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend\Magento\luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Giờ hoạt động: <br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
+"Credit memo for your %store_name order","Bản ghi nhớ tín dụng cho đơn đặt hàng %store_name",theme,frontend\Magento\luma
+"Thank you for your order from %store_name.","Cảm ơn bạn đã đặt hàng từ %store_name.",theme,frontend\Magento\luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Bạn có thể kiểm tra tình trạng đơn hàng của bạn bằng cách <a href=""%account_url""> đăng nhập vào tài khoản của bạn</a>.",theme,frontend\Magento\luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Nếu bạn có thắc mắc về đơn hàng, bạn có thể gửi email cho chúng tôi tại <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend\Magento\luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Bản ghi nhớ tín dụng của bạn #%creditmemo_id cho đơn đặt hàng #%order_id",theme,frontend\Magento\luma
+"Billing Info","Thông tin thanh toán",theme,frontend\Magento\luma
+"Shipping Info","Thông tin vận chuyển",theme,frontend\Magento\luma
+"Payment Method","Phương thức thanh toán",theme,frontend\Magento\luma
+"Shipping Method","Phương thức vận chuyển",theme,frontend\Magento\luma
+"Update to your %store_name credit memo","Cập nhật các bản ghi nhớ tín dụng %store_name của bạn",theme,frontend\Magento\luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Đơn đặt hàng của bạn #%increment_id đã được cập nhật với trạng thái <strong>%order_status</strong>.",theme,frontend\Magento\luma
+"Invoice for your %store_name order","Các hóa đơn cho các đơn đặt hàng %store_name",theme,frontend\Magento\luma
+"Your Invoice #%invoice_id for Order #%order_id","Hoá đơn %invoice_id # cho các đơn đặt hàng #%order_id",theme,frontend\Magento\luma
+"Update to your %store_name invoice","Cập nhật các hoá đơn của bạn %store_name",theme,frontend\Magento\luma
+"Your %store_name order confirmation","Xác nhận đơn đặt hàng của bạn %store_name",theme,frontend\Magento\luma
+"%customer_name,","%customer_name,",theme,frontend\Magento\luma
+"Once your package ships we will send you a tracking number.","Khi hàng của bạn được vận chuyển chúng tôi sẽ gửi cho bạn dãy số theo dõi.",theme,frontend\Magento\luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Đơn đặt hàng của bạn <span class=""no-link""> #%increment_id</span>",theme,frontend\Magento\luma
+"Placed on <span class=""no-link"">%created_at</span>","Đặt trên <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
+"Update to your %store_name order","Cập nhật %store_name các đơn đặt hàng",theme,frontend\Magento\luma
+"Your %store_name order has shipped","Đơn đặt hàng %store_name đã vận chuyển",theme,frontend\Magento\luma
+"Your shipping confirmation is below. Thank you again for your business.","Sự xác nhận vận chuyển của bạn ở dưới đây. Cảm ơn vì giao dịch của bạn.",theme,frontend\Magento\luma
+"Your Shipment #%shipment_id for Order #%order_id","Vận chuyển #%shipment_id cho đơn hàng #%order_id",theme,frontend\Magento\luma
+"Update to your %store_name shipment","Cập Nhật cho %store_name sự gửi hàng của bạn",theme,frontend\Magento\luma
+"Account Dashboard","Trang tổng quan tài khoản",theme,frontend\Magento\luma
+"Address Book","Sổ địa chỉ",theme,frontend\Magento\luma
+"Account Information","Thông tin tài khoản",theme,frontend\Magento\luma
+"About Us","Giới Thiệu Về Chúng Tôi",theme,frontend\Magento\luma
+"Customer Service","Dịch vụ khách hàng",theme,frontend\Magento\luma
+"My Account","Tài khoản của tôi",theme,frontend\Magento\luma
 "Backup options","Tùy chọn sao lưu",lib,web
 "Warning","Cảnh báo",lib,web
 "Cancel","Hủy bỏ",lib,web
